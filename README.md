@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuuSousa
 - 👀 I’m interested in  back-end 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript/Python/QA
 - 📧 dev.luusousa@gmail.com
 
 - </div>
