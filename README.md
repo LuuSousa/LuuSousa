@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuuSousa
-- 👀 I’m interested in  Front-End
+- 👀 I’m interested in  back-end 
 - 🌱 I’m currently learning JavaScript
 - 📧 dev.luusousa@gmail.com
 
