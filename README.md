@@ -1,9 +1,29 @@
-- 👋 Hi, I’m @LuuSousa
-- 👀 I’m interested in  back-end 
-- 🌱 I’m currently learning JavaScript/Python
+- Olá me chamo Luciana Sousa 🧡
+- Tenho conhecimento em HTML, CSS,JAVASCRIP ,PYTHON  
+- Faço faculdade de Analise e Desenvolvimento de Sistema e Curso na DevClub  :computer:
 - 📧 dev.luusousa@gmail.com
 
-- </div>
+<br>
+
+<a href="https://wa.me/message/INVIVOFMSJKWK1"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a>
+<a href="https://wa.me/message/INVIVOFMSJKWK1"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="dev.luusousa@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+
+<div align="content" > 
+
+![Luu Sousa stats](https://github-readme-stats.vercel.app/api?username=Luusousa&show_icons=true&theme=radical)
+<br>
+
+</div>
+
+<div align="right" > 
+ 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luusousa&hide_progress=true)
+ 
+ </div>
+
+- 
  
  ##
  
@@ -12,3 +32,7 @@
 <img align="leaft" alt="Gif" height="300" width="1000" style="border-radius:50px;"  src="https://c.tenor.com/YG_Jz4QQFNIAAAAC/pixel-art-room.gif">
 
 </div>
+<br>
+<br>
+<br>
+<br>
