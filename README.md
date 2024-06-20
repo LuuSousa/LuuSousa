@@ -1,5 +1,4 @@
-- Olá me chamo Luciana Sousa 🧡
-- Tenho conhecimento em HTML, CSS,JAVASCRIP ,PYTHON  
+- Olá me chamo Luciana Sousa 🧡  
 - Faço faculdade de Analise e Desenvolvimento de Sistema e Curso na DevClub  :computer:
 - 📧 dev.luusousa@gmail.com
 
