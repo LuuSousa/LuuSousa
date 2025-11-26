@@ -1,6 +1,8 @@
 - Olá me chamo Luciana Sousa 🧡  
-- Faço faculdade de Analise e Desenvolvimento de Sistema e Curso na DevClub  :computer:
-- 📧 dev.luusousa@gmail.com
+- Sou Formada em Analise e Desenvolvimento de Sistema  :computer:
+- Estudo MBA Gerenciamento de projetos em TI 📚
+- Estudo pós graduação em inteligencia artificial 📚
+  
 
 
 <br>
